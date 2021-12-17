@@ -10,7 +10,11 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-flexbox-grid": "^2.1.2",
+snyk-fix-e8d2126a75678e32c632b8420216f789
     "react-scripts": "3.4.4",
+
+    "react-scripts": "5.0.0",
+master
     "react-select": "^3.0.8",
     "react-table": "^7.0.0-rc.15",
     "styled-components": "^5.0.1"
